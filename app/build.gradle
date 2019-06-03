@@ -55,6 +55,7 @@ dependencies {
     // Coroutines
     api "org.jetbrains.kotlinx:kotlinx-coroutines-core:$rootProject.coroutineVersion"
     api "org.jetbrains.kotlinx:kotlinx-coroutines-android:$rootProject.coroutineVersion"
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
 
 
 }
